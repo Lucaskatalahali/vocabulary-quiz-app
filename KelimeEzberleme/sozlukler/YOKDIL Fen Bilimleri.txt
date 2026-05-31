@@ -1,0 +1,999 @@
+crumble	parçalamak, ufalanmak
+dense	yoğun
+rest	dinlenme
+recur	tekrarlamak, nüksetmek
+underlying	altta yatan
+expense	masraf
+miraculous	mucizevi
+lunar	ayla ilgili
+predisposition	yatkınlık, eğilim
+enable	imkân sağlamak
+annual	yıllık
+steady	istikrarlı, sabit
+enormously	olağanüstü bir şekilde
+prepared	hazır
+coral	mercan
+storage	depolama
+deficiency	eksiklik
+reservoir	baraj gölü, su deposu
+endeavour	gayret etmek, çabalamak
+prevent	önlemek
+event	olay
+temporary	geçici
+drill	matkap, oymak/delmek
+mercury	cıva
+involving	içeren
+persistency	azim, sebat
+nutrient	besin maddesi
+gather	toplamak, anlamak
+endangered	nesli tükenmekte olan
+exceed	aşmak
+relativity	görelilik
+influential	etkili
+patiently	sabırla
+prolong	uzatmak
+fume	duman
+limestone	kireç taşı
+ratio	oran
+degree	derece
+occupy	işgal etmek
+conclude	sonuçlandırmak
+basin	havza
+doubtless	kuşkusuz
+hereditary	kalıtımsal
+exploit	sömürmek
+simply	basitçe
+misunderstand	yanlış anlamak
+instantly	anında
+sedimentation	çökelme
+owe	borçlu olmak
+disintegration	parçalanma
+charge	şarj etmek
+copper	bakır
+mutual	karşılıklı
+article	makale, eşya, nesne
+practicable	uygulanabilir
+endure	katlanmak
+conductivity	iletkenlik
+mountainous	dağlık
+port	liman
+aid	yardım (etmek)
+brake	fren
+sniff	koklamak
+invertebrate	omurgasız
+entombment	gömme, gömülme
+recurrent	tekrarlayan, nükseden
+seemingly	görünüşte
+remarkable	kayda değer
+intense	yoğun
+incorporate	birleştirmek, bütünleştirmek
+elasticity	esneklik
+removal	ortadan kaldırma, yok etme
+survive	hayatta kalmak
+duplicate	kopyasını yapmak
+indispensable	vazgeçilmez, çok önemli
+numerous	sayısız
+description	açıklama
+faulty	hatalı
+attempt	teşebbüs etmek
+blanket	battaniye, örtü
+attract	çekmek, cezbetmek
+outwards	dışa doğru
+treatment	tedavi
+evidence	kanıt
+indicate	işaret etmek, göstermek
+search	araştırmak
+preparation	hazırlık
+discover	keşfetmek
+runway	koşu yolu
+square	kare, meydan
+comparable	karşılaştırılabilir, benzer
+greenhouse	sera
+spot	yer, nokta; tespit etmek
+pure	saf
+publication	yayın
+prolific	üretken
+equipped with	ile donatılmış
+proper	uygun, düzgün
+yield	ürün vermek, verim, rekolte, boyun eğmek (to)
+encourage	teşvik etmek
+refinement	arıtma, inceltme
+remedy	çare, tedavi
+distant	uzak
+inhalation	nefes alma
+round	yuvarlak
+rot	çürük, çürümek
+forest	orman
+restrict	sınırlamak
+entail	gerektirmek, kapsamak
+towards	_e doğru
+abrasive	aşındırıcı
+concerning	ile ilgili
+manufacture	imal etmek
+occasionally	bazen
+digest	sindirmek
+reinforce	takviye etmek, güçlendirmek
+step	adım
+vividly	canlı biçimde
+constantly	sürekli olarak
+motion	hareket
+drought	kuraklık
+disagree	aynı fikirde olmamak
+reluctant	gönülsüz
+investigation	soruşturma
+diffuse	yayılmak, dağıtmak
+salt	tuz
+firm	firma; kesin; sıkı, sert
+sand	kum
+recessive	çekinik
+ore	cevher (maden)
+attain	elde etmek, başarmak
+pesticide	böcek öldürücü
+stem	kök (stem from=den kaynaklanmak)
+subsequently	sonradan
+threat	tehdit
+wheel	tekerlek
+obtain	elde etmek
+episode	bölüm, vaka, olay
+evaporation	buharlaşma
+fever	ateş
+observatory	gözlemevi
+kidney	böbrek
+steep	dik
+strike	vuruş, vurmak
+reach	ulaşmak
+effortlessly	zahmetsizce
+regularly	düzenli olarak
+invention	icat
+vibration	titreşim
+subdivide	alt bölümlere ayırmak
+weathering	hava hadiselerinin verdiği tahribat
+flora	bitki örtüsü
+refer to	atıfta bulunmak, bahsetmek
+prey	av
+crack	çatlamak, çatlak
+leak	sızmak
+pinpoint	kesin olarak belirlemek, saptamak
+recognize	tanımak
+compartment	bölme
+track	izlemek, yol, iz
+handle	sap
+refrigeration	soğutma
+strictly	tamamen, kesinlikle
+slender	ince
+order	düzen, emretmek, sipariş vermek
+whereby	ki bunun aracılığıyla
+fabric	kumaş
+condensation	yoğunlaşma
+process	süreç, işlemden geçirmek
+expose to	maruz bırakmak
+reclamation	arazi ıslahı, geri kazanma
+foam	köpük
+shear	kırpmak
+suggest	önermek
+modification	değiştirme, değişiklik yapma
+humid	nemli
+distinct	belirgin, farklı
+continent	kıta
+illustrate	tasvir etmek, resimlemek
+especially	özellikle
+forecast	tahmin etmek
+measurement	ölçüm
+burst	patlamak
+exhibition	sergi
+hesitate	tereddüt etmek
+prove	kanıtlamak
+convenient	uygun, elverişli
+vessel	gemi, damar, kap-kacak
+offer	teklif etmek
+insufficient	yetersiz
+safety	güvenlik
+remember	hatırlamak
+digestion	sindirim
+progress	ilerlemek, ilerleme
+waterfall	şelale
+intention	niyet
+compulsive	kontrolsüz, istem dışı
+grind	öğütmek
+facility	tesis, kolaylık
+tension	gerginlik
+identify	tanımlamak
+migration	göç
+possibility	olasılık
+decelerate	yavaşlamak
+space	boşluk, uzak
+retain	korumak, sürdürmek
+stationary	sabit, hareketsiz
+downward	aşağı doğru
+protection	koruma
+uniformly	aynı tarzda, tektip
+mount	tırmanmak, binmek, monte etmek
+typical	tipik
+wheat	buğday
+manoeuvre	manevra
+particular	özel, belli
+staff	personel
+repository	depo
+airstream	hava akımı
+whereas	oysa, buna karşın
+blend	harmanlamak
+fairly	oldukça
+maintain	bakımını yapmak, iddia etmek
+rubbish	çöp
+situation	durum
+powerful	güçlü
+speed	hız
+spider	örümcek
+patience	sabır
+prompt	harekete geçirmek, hemen, hızlı
+dimension	boyut
+irreversible	geri dönüşü olmayan
+option	seçenek
+unaccountable	anlatılamaz, açıklanamaz
+germination	çimlenme
+naturally	doğal olarak
+minister	bakan
+suppress	bastırmak, baskılamak
+primarily	öncelikle
+ashore	karaya, sahile
+explosive	patlayıcı
+helmet	kask
+rainforest	yağmur ormanı
+predation	yırtıcılık
+minus	eksi
+expansion	genişleme
+promising	umut verici
+infer from	çıkarım yapmak
+reproduction	üreme
+disregard	göz ardı etmek
+extinguish	söndürmek
+movement	hareket
+raise	yükseltmek, artırmak, yetiştirmek
+merely	sadece
+exaggerate	abartmak
+tilt	eğilmek
+mirror	ayna
+own	sahip olmak; kendi
+investigate	soruşturmak, araştırmak
+overcome	üstesinden gelmek
+foodstuff	gıda maddeleri
+predict	öngörmek, tahmin etmek
+run	koşmak; akmak; yönetmek
+regard as	olarak bakmak/görmek
+variable	değişken
+modify	değiştirmek
+formerly	eskiden
+diverse	çeşitli
+bare	çıplak
+relevant	ilgili
+seafloor	deniz tabanı
+threaten	tehdit etmek
+expert	uzman
+remarkably	kayda değer bir şekilde
+outweigh	daha ağır gelmek
+zone	bölge
+suitable	uygun
+ventilation	havalandırma
+operate	işletmek
+generate	üretmek
+estimate	tahmin etmek
+decay	çürümek
+equilibrium	denge
+condense	yoğunlaştırmak
+capture	ele geçirmek, yakalamak
+sink	lavabo; batmak
+weakness	zayıflık
+piece	parça
+seed	tohum
+drain	suyunu boşaltmak
+insulation	yalıtım
+immediately	hemen, derhal
+perfect	mükemmel; geliştirmek,
+recovery	kurtarma, geri kazanma
+interact	etkileşmek
+fiction	kurgu
+rate	oran
+defend	savunmak
+presence	varlık, var olma
+irrelevant	ilgisiz
+laborious	zahmetli, yorucu
+irresponsible	sorumsuz
+representative	temsilci
+explore	keşfetmek
+beverage	içecek
+harden	sertleştirmek
+convection	yayınım
+troublesome	zahmetli
+push	itmek
+defect	kusur
+rod	çubuk
+household	ev halkı
+dust	toz
+shortly	kısa süre sonra
+raid	baskın, baskın yapmak
+outline	özetlemek, ana hatlarını çıkarmak
+volume	hacim, ses, kitap cildi
+embed	gömmek
+dilation	genişleme
+commercial	ticari
+profitable	kârlı
+praise	övmek
+emblem	simge, işaret
+rid	kurtulmak (get rid of)
+latter	sonraki, ikincisi
+overdose	aşırı doz
+install	yüklemek
+deposit	birikinti, (maden) yatak/damar
+competent	usta, becerikli
+truly	gerçekten
+warn	uyarmak
+nebula	bulutsu
+optimal	en uygun
+Martian	marsa ait, marsla ilgili
+surplus	fazlalık
+recently	son zamanlarda; kısa süre önce
+readily	kolaylıkla, hemen
+indefinitely	süresiz olarak
+concern	ilgilendirmek, endişelendirmek
+quality	kalite
+advent	geliş, icat, ortaya çıkış
+procedure	işlem, izlek
+assign	atamak, görevlendirmek
+destructive	yıkıcı
+shell	kabuk
+elude	elinden kaçmak, kaçıp kurtulmak
+settle	yerleşmek
+seizure	nöbet; ele geçirme
+upkeep	bakım, tamir
+average	ortalama
+starvation	açlık
+objective	amaç; tarafsız
+virtually	neredeyse
+aim	amaç(lamak)
+remain	kalmak
+demand	talep etmek
+practice	uygulama
+melt	erimek, eritmek
+universal	evrensel
+resemble	benzemek
+trick	hile
+approach	yaklaşım, yaklaşmak
+illegal	yasadışı
+armament	silahlanma
+consistent	tutarlı
+horizontal	yatay
+plenty of	bol miktarda
+deny	inkâr etmek
+peace	barış
+pea	bezelye
+fatigue	aşırı yorgunluk
+sufficient	yeterli
+necessity	gereklilik
+trace	iz, izini sürmek
+hide	saklamak
+adequate	yeterli
+consult	danışmak
+unaffected	etkilenmemiş
+safely	güvenli bir şekilde
+race	yarış, ırk
+curious	meraklı
+feature	özellik
+ultraviolet	morötesi
+properly	uygun şekilde
+massive	muazzam, çok büyük
+increasingly	artan bir şekilde, giderek
+mission	görev
+thread	iplik, yiv
+exception	istisna
+nature	doğa
+sticky	yapışkan
+manned	insanlı
+season	mevsim
+regarding	ile ilgili olarak
+fold	kat, katlamak
+pressure	basınç
+demonstrate	göstermek
+provision	koşul, temin, erzak, tedarik
+accumulate	birik(tir)mek
+recycling	geri dönüşüm
+snowmelt	kar erimesi
+surely	şüphesiz, tabi ki, elbette
+bulk	büyük kısım
+propel	ileriye doğru itmek (propeller=pervane)
+result from	_den kaynaklanmak (result in=ile sonuçlanmak)
+subject	konu, maruz kalmak (to)
+preservation	koruma
+approximately	yaklaşık olarak
+existence	varoluş, varlık
+liken	benzetmek
+stimulate	teşvik etmek, uyarmak
+navigator	gemici, denizci
+segment	kesim, parça
+flowering	çiçek açan
+consequence	sonuç
+enclose	ilişikte göndermek
+foresee	öngörmek
+reduce	azaltmak
+indifferent	ilgisiz, kayıtsız
+upwards	yukarı doğru
+surprisingly	şaşırtıcı bir şekilde
+iron	demir
+qualitative	nitel
+vertebrate	omurgalı
+useless	işe yaramaz
+observation	gözlem
+boundary	sınır
+reject	reddetmek
+fertilization	gübreleme
+pile	istif, yığın
+pioneer	öncülük etmek
+shine	parlamak
+thickness	kalınlık
+ripe	olgun
+surface	yüzey
+silence	sessizlik
+outdoor	dış mekân
+mammal	memeli hayvan
+scale	ölçek
+punch	yumruklamak
+explanation	açıklama
+disperse	dağıtmak
+fresh	taze
+obviously	açıkçası
+nearby	yakınlarda
+respect	saygı; yön, açı
+crust	kabuk
+rainfall	yağış
+origin	köken
+issue	konu, sorun, sayı
+giant	dev
+dissipation	dağılma
+retraction	geri çekilme, cayma, büzülme
+nausea	mide bulantısı
+embrace	kucaklamak
+innovation	yenilik
+invent	icat etmek
+discuss	tartışmak
+desert	çöl; kaçmak
+unstable	dengesiz, istikrarsız
+partly	kısmen
+reliable	güvenilir
+slab	levha, plak, tabaka
+core	öz, çekirdek
+sustainable	sürdürülebilir
+gradually	yavaş yavaş
+spontaneously	kendiliğinden
+magnet	mıknatıs
+scheme	şema, plan, taslak
+preservative	koruyucu
+navigation	seyrüsefer, denizcilik, yön bulma
+sense	hissetmek, duyu, mantık
+conglomeration	küme, yığın
+aggregate	toplamak
+thaw	çözülmek, erimek
+suburban	banliyö şehir, kenar semt
+bitterly	acımasızca, feci şekilde
+triangular	üçgen
+spin	çevirmek, dönmek
+extract	çıkarmak
+hoist	vinç
+inlet	giriş
+predominantly	ağırlıklı olarak, baskın bir şekilde
+susceptible	duyarlı, hassas, yatkın, savunmasız
+relate	ilişkilendirmek, anlatmak
+unyielding	boyun eğmez, yılmaz
+involved	ilgili
+diagnostic	tanılama ile ilgili
+nutritious	besleyici
+earthquake	deprem
+diarrhoea	ishal
+depletion	tükenme
+load	yükleme, yük
+purpose	amaç
+rigorous	titiz
+aspect	yön, taraf, açı
+suffer	acı çekmek
+confirm	onaylamak, doğrulamak
+inhibit	engellemek, dizginlemek
+tidal	gelgit, med-cezir
+bear	ürün vermek, katlanmak, ayı
+generously	cömertçe
+property	gayrimenkul, özellik
+scope	kapsam, ufuk, bakış açısı
+require	gerektirmek
+duration	süre
+state	belirtmek, bildirmek, durum, devlet
+mighty	güçlü
+marine	denizle ilgili
+matter	madde, mesele
+impurity	safsızlık
+era	dönem, çağ
+sight	görme
+entirely	baştan sona
+lifeless	cansız
+paper	kâğıt; makale; gazete
+evolve	gelişmek
+solution	çözüm
+refuse	reddetmek
+withdrawal	para çekme, geri çekilme
+expect	beklemek, ummak
+heater	ısıtıcı
+profession	meslek
+tool	alet
+tobacco	tütün
+lengthy	uzun
+landmass	kara kütlesi
+needle	iğne
+tempt	cezbetmek, tahrik etmek
+primate	maymungiller
+necessary	gerekli
+notice	dikkat
+superior	üstün
+rush	acele etmek, telaş
+component	bileşen, parça
+cultivation	ekim-dikim, tarım
+prescription	reçete
+revolve	dönmek
+safe	kasa, güvenli
+destroy	yok etmek
+valley	vadi
+teem with	ile kaynamak/dolu olmak
+deterioration	kötüleşme, bozulma
+glue	tutkal
+livestock	hayvancılık
+concentration	yoğunlaşma
+sterilise	arınık hale getirmek
+imitate	taklit etmek
+contrary to	_ın aksine
+emission	salınım
+radiant	parlak, ışıyan, göz alıcı
+halt	durdurmak
+ornament	süsleme
+monitor	izlemek
+satisfactory	tatmin edici
+acclimatisation	iklimlendirme
+subsequent	sonraki
+naked	çıplak
+correct	doğru
+routinely	rutin olarak, düzenli bir şekilde
+tightly	sıkıca
+ingenious	dâhice, ustaca
+preventable	önlenebilir
+resin	reçine
+treaty	antlaşma
+supersede	yerini almak, geçersiz kılmak
+mentally	zihinsel olarak
+restriction	kısıtlama
+friction	sürtünme
+artificial	yapay
+orbit	yörünge
+contrast	zıtlık, tezat
+sum	toplamak, toplam
+auditory	işitsel
+heavily	yoğun bir şekilde, çok fazla
+respectively	sırasıyla
+needlessly	gereksiz yere
+fundamental	temel
+minimize	en aza indirmek
+secure	güvenli
+distance	mesafe
+respiration	solunum
+wear	giymek, aşınmak, yorulmak
+locate	yerini belirlemek, konumlu olmak
+obstinately	inatçı bir şekilde
+subsidise	sübvanse etmek, maddi destek vermek
+conduct	iletmek, idare etmek; davranış, tavır
+prime	ana, temel, başlıca
+failure	başarısızlık
+lethal	öldürücü
+branch	şube, dal
+gap	boşluk
+recommend	tavsiye etmek
+compose	oluşturmak, derlemek
+means	araç (by means of)
+waste	atık, boşa harcamak, israf etmek
+naval	denizcilikle ilgili
+flourish	gelişmek, serpilmek
+complicated	karmaşık
+possess	sahip olmak
+reason	sebep; akıl, akıl yürütmek
+marvellous	harikulade, muhteşem
+presently	şu an; yakında
+consume	tüketmek
+environmental	çevresel
+specially	özel olarak
+commonplace	sıradan
+screw	vida
+temperate	ılıman
+persist in	_de ısrar etmek, sebat etmek
+curvature	eğrilik
+interfere with	müdahale etmek
+joint	müşterek, ortak; eklem
+aviation	havacılık
+coat	ceket
+conception	kavram, algı; gebelik
+longitude	boylam
+insect	böcek
+currently	şu anda
+measure	ölçmek; önlem
+indeed	gerçekten de
+derive from	türetmek
+durability	dayanıklılık
+visibility	görünürlük
+constant	sabit
+whirlpool	girdap
+combustion	yanma
+smooth	pürüzsüz
+recreation	eğlence, dinlence
+beneficial	yararlı, faydalı
+agility	çeviklik
+barrier	engel
+conclusive	kesin
+selection	seçim
+multicellular	çok hücreli
+warp	eğmek, çarpıtmak, saptırmak
+consist of	_den oluşmak
+indirectly	dolaylı olarak
+sparse	seyrek
+drowsiness	uyuşukluk
+reflect	yansıtmak
+split	bölünmüş
+inhabit	yaşamak
+separation	ayırma
+pave	döşemek, kaplamak
+object to	itiraz etmek
+inevitable	kaçınılmaz
+unloading	boşaltma
+gifted	doğuştan yetenekli
+fasten	bağlamak
+seem	görünmek
+practically	pratikte; neredeyse
+propose	teklif etmek, önermek
+pollute	kirletmek
+pigment	boya maddesi
+truck	kamyon
+pollinate	çiçek tozu yaymak, tozlaşmak
+ingredient	bileşen
+initiation	başlatma
+weed	yabani ot
+intensify	yoğunlaştırmak
+manuscript	el yazması
+content	içerik
+specific	özel, belirli
+diminish	azaltmak
+originate from	türemek, _den gelmek, ortaya çıkmak
+equally	eşit olarak
+inert	hareketsiz
+proportion	oran
+previous	önceki
+precise	tam, kesin, eksiksiz
+storm	fırtına
+explosion	patlama
+decompose	ayrıştırmak
+submarine	denizaltı
+level	seviye
+combat	dövüşmek
+randomly	rastgele
+flame	alev
+vein	damar
+supply	arz, kaynak; sağlamak
+dormancy	uyku hali
+promise	söz vermek
+pose	teşkil etmek (pose a problem)
+particle	parçacık
+exhaustion	tükenme
+separate	ayırmak, ayrı
+essentially	aslında
+toll	geçiş ücreti
+superb	harika, muhteşem
+moisture	nem
+purchase	satın almak
+erosion	aşınma, erozyon
+mean	anlamına gelmek, ortalama, niyet et.
+seal	fok balığı; mühür, kaşe
+traditional	geleneksel
+grant	hibe etmek, vermek, burs
+inefficient	yetersiz
+independence	bağımsızlık
+swiftness	hızlanma, çabukluk
+participation	katılım
+receive	almak
+rise	yükselmek, artmak, doğmak
+reverberation	yankılanma
+droplet	damlacık
+extend	uzatmak
+term	dönem, koşul, şart
+sudden	ani
+harvest	hasat
+depth	derinlik
+convince	ikna etmek
+internal	iç
+desirable	arzulanan
+progressively	gittikçe, giderek
+ready	hazır
+place	yer, yerleştirmek
+ignition	ateşleme
+absorption	emilim
+follow	takip etmek
+public	halka açık
+germicide	mikrop öldürücü madde
+feasible	mümkün
+produce	üretmek
+steel	çelik
+indoor	iç mekân
+substance	madde
+constitute	oluşturmak
+harsh	sert
+vulnerable	savunmasız, zayıf, hassas
+hurricane	kasırga
+puzzle	bulmaca
+entire	tüm
+seriously	ciddi bir şekilde
+particularly	özellikle
+pump	pompa
+neither	ne de
+swell	kabarmak, şişmek
+generation	nesil
+utilize	kullanmak, yararlanmak
+sleek	şık, pürüzsüz; düzleştirmek
+surround	çevrelemek
+loom	dokuma tezgâhı; uzakta belirmek
+impose	yürürlüğe koymak, uygulamak
+individual	bireysel
+arboriculture	ağaç yetiştiriciliği
+sensation	duygu
+groundwater	yeraltı suyu
+conventional	geleneksel
+considerately	düşünceli bir şekilde
+pleasant	hoş
+expedition	sefer, keşif yolculuğu
+craft	zanaat
+strange	garip, acayip
+prevention	önleme
+straight	düz
+irrigation	sulama
+spring	bahar, memba, yay
+destruction	imha
+flavourful	lezzetli
+substantial	önemli, bir hayli
+prize	ödül
+obstruction	tıkanıklık
+dominant	baskın
+climate	iklim
+predator	yırtıcı, avcı
+lately	son zamanlarda
+source	kaynak
+formation	oluşum
+fragment	parça
+brass	pirinç
+multiply	çarpmak, çoğaltmak
+shot	ateş etmek, atış
+except for	dışında, hariç
+sinister	uğursuz
+construct	inşa etmek
+disrepute	itibarını kaybetme
+measurable	ölçülebilir
+emphasis	vurgu
+delicate	zarif, ince, hassas
+inflammable	yanıcı
+acceleration	hızlanma
+reveal	ortaya çıkartmak
+effort	çaba
+strength	kuvvet, güç
+sharp	keskin
+transmission	iletim, aktarım
+outbreak	salgın
+cement	çimento
+scatter	saçmak, dağıtmak
+abundant	bol
+import	ithalat
+majority	çoğunluk
+obliged	zorunlu, mecbur
+mainly	ağırlıklı olarak, temelde
+regardless of	_e bakılmaksızın
+resolve	çözmek, karar vermek
+dispose	elden çıkarmak
+cure	tedavi etmek, tedavi
+viable	uygulanabilir
+emit	yaymak
+fungus	mantar
+relative	göreceli, nispi
+tamper	kurcalamak, karıştırmak
+resume	devam et; özgeçmiş
+shake	sallamak
+extinction	yok olma
+figure	rakam, şekil, şahsiyet
+cite	bahsetmek
+bleach	çamaşır suyu, ağartmak
+demolish	yıkmak
+notion	fikir, olgu, mefhum
+maintenance	bakım
+nourishment	besle(n)me
+realise	fark etmek
+desalination	tuzdan arındırma
+consider	düşünmek
+noise	gürültü
+hostile	düşman
+shield	kalkan
+solid	katı
+contribute to	katkıda bulunmak, sebep olmak
+brilliant	parlak, zeki
+completely	tamamen
+versatile	çok yönlü
+waterproof	su geçirmez
+plane	uçak, düzlem
+share	paylaştırmak, pay
+knowledgeable	bilgili
+imperfection	kusur
+fortunate	şanslı
+effective	etkili
+unmanned	insansız
+extreme	aşırı
+sort	çeşit
+formulate	geliştirmek, biçimlendirmek
+encompass	kapsamak
+penetrate	nüfuz etmek
+severe	şiddetli
+trait	özellik
+precipitation	yağış, çökelti
+vehicle	araç
+unlike	_ın aksine
+treat	tedavi etmek, işlemek, davranmak
+pier	iskele
+solve	çözmek
+deep	derin
+vomit	kusmak
+applicable	uygulanabilir
+breadth	genişlik
+intentionally	kasıtlı olarak
+device	aygıt
+tremor	titreme, sarsıntı
+conservation	koruma
+hazardous	tehlikeli
+aircraft	hava aracı
+usage	kullanım
+major	ana, temel, başlıca
+successfully	başarıyla
+culmination	doruk noktası, zirve
+controversy	tartışma, anlaşmazlık
+ray	ışın
+contain	içermek
+impossible	imkânsız
+rope	halat
+challenge	meydan okumak; zorluk
+extent	ölçü, boyut, derece
+weave	örmek, örgü
+moderate	ılımlı
+interior	iç kısım
+warfare	savaş hali
+soil	toprak
+disaster	felâket
+ensure	sağlamak, emin olmak
+connect	bağlamak
+moral	ahlaki
+amber	kehribar
+emphasize	vurgu yapmak
+similarly	benzer şekilde
+immense	çok büyük, kocaman
+viscosity	kıvam, akışkanlık
+clarity	açıklık
+include	dâhil etmek, içermek
+deserve	hak etmek
+pick	seçmek
+angle	açı
+lead to	sebep olmak
+improve	geliştirmek, iyileştirmek
+opposed to	_e karşı
+irresistible	dayanılmaz
+phenomena	olgu, olay, hadise
+section	bölüm
+orderly	düzenli
+amplitude	genlik, genişlik
+crop	mahsul
+unreliable	güvenilmez
+pluck	yolmak
+trial	deneme, duruşma
+remote	uzak
+store	mağaza, depo
+relatively	nispeten
+propulsion	tahrik, sevk, itici güç
+comparatively	nispeten
+unmatchable	emsalsiz, eşsiz
+cloudy	bulutlu
+flood	sel
+drift	sürüklenmek
+effect	etki
+gain	kazanmak
+importance	önem
+improbable	imkânsız
+probable	muhtemel
+revolution	devrim
+owner	sahip
+echo	yankı
+efficient	verimli
+arid	kurak, çorak
+erosive	aşındırıcı, yıpratıcı
+labour	emek
+error	hata
+entice	ikna etmek, ayartmak
+contact	temas kurmak
+disclose	ifşa etmek
+mass	kitle
+solar	güneşle ilgili
+reasonably	makul derecede
+corrosion	aşınma, paslanma
+battle	savaş
+exceedingly	son derece
+specialist	uzman
+floor	zemin, kat
+requirement	şart, gereklilik
+underway	sürmekte, devam etmekte
+honorary	onursal
+region	bölge
+wreck	enkaz
+fair	adil, açık tenli, fuar
+experiment	deney
+mice	fareler
+reciprocate	karşılıklı yapmak, karşılık vermek
+responsible	sorumlu
+rarely	nadiren
+ferrous	demirli
+alloy	alaşım
+proceed	ilerlemek
+inheritance	miras
+domestic	evcil
+plant	bitki, fabrika, santral
+altitude	irtifa
+permit	izin vermek
+broadly	geniş ölçüde
+outside	dışında
+exact	kesin, tam
+extremely	son derece
+species	tür (bitki, hayvan)
+moist	nemli
+thoughtless	düşüncesiz
+supervise	gözetmek, denetlemek
+planet	gezegen
+husbandry	hayvan yetiştirme
+encounter	karşılaşmak
+moreover	dahası
+violent	şiddet içeren
+soften	yumuşatmak
+engaged	nişanlı
+distinction	ayrım
+compensate for	telafi etmek
+perfectly	kusursuzca
+utterly	tamamen
+ordinary	sıradan
+oncoming	yaklaşan
+narrow	dar
+field	alan, arazi
+adhesive	yapışkan
+signify	işaret etmek
+member	üye
+involuntary	istemsiz
+harness	kontrol altına almak
+efficiency	verimlilik
+rupture	yırtık, kırılma
+progressive	ilerleyen
+occur	meydana gelmek
+mind	zihin, akıl; önemsemek, umursamak
+lower	alt; düşürmek
+introduce	takdim etmek, piyasaya sürmek
+exploration	keşif
+rubber	silgi, kauçuk
+rectangular	dikdörtgen şeklinde
+circumstance	durum
+dormant	uykuda
+tissue	doku
+decline	düşmek, azalmak
+subtraction	çıkarma
+incompatible	uyumsuz
+premature	erken
+item	öğe, unsur, parça, kalem
+hope	umut etmek
+purely	yalnızca
+induce	teşvik etmek, harekete geçirmek
+perspiration	terleme
+timely	zamanında
+considerably	önemli ölçüde
