@@ -14,4 +14,4 @@ A Windows Forms application designed to help users learn and practice English–
 
 ## Screenshot
 
-![App Screenshot](assets/img1.png)
+![App Screenshot](KelimeEzberleme/assets/img1.png)
