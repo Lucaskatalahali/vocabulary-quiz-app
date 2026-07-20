@@ -1,17 +1,55 @@
-# Vocabulary Quiz App (English–Turkish)
+# 🎮 English–Turkish Vocabulary Quiz App
 
-A Windows Forms application designed to help users learn and practice English–Turkish vocabulary through interactive multiple-choice quizzes.
+Academic project developed during the first year of my Computer Engineering degree at Sakarya University.
 
-## Features
-- Randomized multiple-choice questions
-- Score tracking system
-- Progress display
-- File-based vocabulary loading
+The objective of this project was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
 
-## Technologies Used
+---
+
+## 🛠 Technologies
+
 - C#
 - .NET Windows Forms
 
-## Screenshot
+---
+
+## ✨ Features
+
+- English–Turkish vocabulary quiz
+- Multiple-choice questions
+- Randomized answer options
+- Score tracking
+- Graphical user interface (Windows Forms)
+
+---
+
+## 📄 Documentation
+
+The `docs` folder contains the original Project Specification
+
+---
+
+## 📷 Screenshot
+
+### Main Menu
 
 ![App Screenshot](KelimeEzberleme/assets/img1.png)
+
+---
+
+## 🎓 Academic Information
+
+- **University:** Sakarya University
+- **Faculty:** Faculty of Computer and Information Sciences
+- **Department:** Computer Engineering
+- **Course:** Object-Oriented Programming
+
+---
+
+## 📌 Notes
+
+This repository preserves the original academic project as it was developed during my first year of university.
+
+For more academic projects, visit my **Computer Engineering Projects** repository:
+
+https://github.com/Lucaskatalahali/computer-engineering-projects
