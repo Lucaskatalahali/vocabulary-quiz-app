@@ -25,7 +25,7 @@ The objective of this project was to develop a Windows Forms application that he
 
 ## 📄 Documentation
 
-The `docs` folder contains the original Project Specification
+The `/KelimeEzberleme/docs` folder contains the original Project Specification
 
 ---
 
