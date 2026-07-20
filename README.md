@@ -37,6 +37,10 @@ The `/KelimeEzberleme/docs` folder contains the original Project Specification
 
 ---
 
+## ▶️ How to Run
+
+Open the solution (`.sln`) in Visual Studio, build the project, and run it using **Ctrl + F5** or **F5**.
+
 ## 🎓 Academic Information
 
 - **University:** Sakarya University
