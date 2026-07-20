@@ -52,8 +52,6 @@ Open the solution (`.sln`) in Visual Studio, build the project, and run it using
 
 ## 📌 Notes
 
-This repository preserves the original academic project as it was developed during my first year of university.
+This repository preserves the original academic project exactly as it was submitted and evaluated.
 
-For more academic projects, visit my **Computer Engineering Projects** repository:
-
-https://github.com/Lucaskatalahali/computer-engineering-projects
+For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
