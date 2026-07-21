@@ -31,9 +31,9 @@ The `/KelimeEzberleme/docs` folder contains the original Project Specification
 
 ## 📷 Screenshot
 
-### Main Menu
+### Main Interface
 
-![App Screenshot](KelimeEzberleme/assets/img1.png)
+![Main Interface](KelimeEzberleme/assets/img1.png)
 
 ---
 
