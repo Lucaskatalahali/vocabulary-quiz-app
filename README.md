@@ -1,8 +1,12 @@
 # 🎮 English–Turkish Vocabulary Quiz App
 
-Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
+![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
-This project was developed for the **Object-Oriented Programming** course. The objective was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
+![Course](https://img.shields.io/badge/Course-Object_Oriented_Programming-blue)
+
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
+
+The objective of this project was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
 
 ---
 
