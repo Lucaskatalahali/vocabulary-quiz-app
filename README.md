@@ -1,15 +1,15 @@
 # 🎮 English–Turkish Vocabulary Quiz App
 
-Academic project developed during the first year of my Computer Engineering degree at Sakarya University.
+Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
-The objective of this project was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
+This project was developed for the **Object-Oriented Programming** course using. The objective was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
 
 ---
 
 ## 🛠 Technologies
 
 - C#
-- .NET Windows Forms
+- .NET WinForms
 
 ---
 
