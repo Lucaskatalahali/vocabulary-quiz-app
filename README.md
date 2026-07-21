@@ -6,7 +6,7 @@
 
 > 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
-The objective of this project was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
+This Windows Forms application helps users practice English and Turkish vocabulary through an interactive quiz.
 
 ---
 
