@@ -2,7 +2,7 @@
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
-This project was developed for the **Object-Oriented Programming** course using. The objective was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
+This project was developed for the **Object-Oriented Programming**. The objective was to develop a Windows Forms application that helps users practice English and Turkish vocabulary through an interactive quiz.
 
 ---
 
