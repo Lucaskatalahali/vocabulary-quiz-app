@@ -48,7 +48,6 @@ Open the solution (`.sln`) in Visual Studio, build the project, and run it using
 ## 🎓 Academic Information
 
 - **University:** Sakarya University
-- **Faculty:** Faculty of Computer and Information Sciences
 - **Department:** Computer Engineering
 - **Course:** Object-Oriented Programming
 - **Academic Year:** 2024–2025
