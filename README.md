@@ -51,7 +51,7 @@ Open the solution (`.sln`) in Visual Studio, build the project, and run it using
 - **Faculty:** Faculty of Computer and Information Sciences
 - **Department:** Computer Engineering
 - **Course:** Object-Oriented Programming
-- Project Grade: 96/100
+- **Academic Year:** 2024–2025
 
 ---
 
